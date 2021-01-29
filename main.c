@@ -1,8 +1,3 @@
-/*
-Yusuf Alparslan Kaya - 190202102
-Feridun Suay Bayar - 170202064
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
